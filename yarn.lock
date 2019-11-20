@@ -349,9 +349,9 @@
     "@types/istanbul-lib-report" "*"
 
 "@types/node@*", "@types/node@^12.0.10":
-  version "12.12.6"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-12.12.6.tgz#a47240c10d86a9a57bb0c633f0b2e0aea9ce9253"
-  integrity sha512-FjsYUPzEJdGXjwKqSpE0/9QEh6kzhTAeObA54rn6j3rR4C/mzpI9L0KNfoeASSPMMdxIsoJuCLDWcM/rVjIsSA==
+  version "12.12.11"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-12.12.11.tgz#bec2961975888d964196bf0016a2f984d793d3ce"
+  integrity sha512-O+x6uIpa6oMNTkPuHDa9MhMMehlxLAd5QcOvKRjAFsBVpeFWTOPnXbDvILvFgFFZfQ1xh1EZi1FbXxUix+zpsQ==
 
 "@types/ref-struct@*":
   version "0.0.29"
@@ -3051,8 +3051,10 @@ slash@^2.0.0:
   resolved "https://registry.yarnpkg.com/slash/-/slash-2.0.0.tgz#de552851a1759df3a8f206535442f5ec4ddeab44"
   integrity sha512-ZYKh3Wh2z1PpEXWr0MpSBZ0V6mZHAQfYevttO11c51CaWjGTaadiKZ+wVt1PbMlDV5qhMFslpZCemhwOK7C89A==
 
-"smpi-iop-node-ffi@file:../smpi-iop-node-ffi":
-  version "0.0.1"
+smpi-iop-node-ffi@^0.0.2:
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/smpi-iop-node-ffi/-/smpi-iop-node-ffi-0.0.2.tgz#21ebe2d53b0e956bde5cfd7fae82475512e7798b"
+  integrity sha512-5+JkXxx3xRMNeN6GqYA9fYmkXck8/grSwxaIFaf3Gora01QYPNFsXK+XGJxN5qttGirqfnfLeLBT9Rtor/hCvQ==
   dependencies:
     "@types/ffi" "^0.2.2"
     "@types/node" "^12.0.10"

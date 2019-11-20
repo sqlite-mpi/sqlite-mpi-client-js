@@ -1,6 +1,6 @@
 {
     "name": "sqlite-mpi-client-js",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
     "author": "Enzo Madda",
@@ -22,7 +22,7 @@
     },
     "devDependencies": {
         "jest": "^24.9.0",
-        "smpi-iop-node-ffi": "file:./../smpi-iop-node-ffi",
+        "smpi-iop-node-ffi": "^0.0.2",
         "typescript": "^3.7.2"
     }
 }
