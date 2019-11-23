@@ -13,7 +13,7 @@ See [sqlitempi.com](https://sqlitempi.com) for a general overview.
 You also need to install an IO provider.
 
 - [React Native](https://github.com/sqlite-mpi/smpi-iop-react-native) 
-
+- [Node.js](https://github.com/sqlite-mpi/smpi-iop-node-ffi)
 
 ### Usage
 
