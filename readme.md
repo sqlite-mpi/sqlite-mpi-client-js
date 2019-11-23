@@ -1,4 +1,4 @@
-SMPI client for JavaScript.
+SQLite client for JavaScript.
 
 See [sqlitempi.com](https://sqlitempi.com) for a general overview.
 
