@@ -76,7 +76,7 @@ await rtx.commit();
 
 ### Notes
 
-- SQLIte `WAL` mode is always on; you can not turn it off.
+- SQLite `WAL` mode is always on; you can not turn it off.
 - Reads are concurrent, writes queue.
 
 
